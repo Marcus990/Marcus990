@@ -8,5 +8,5 @@ I am also extremely interested in the security and protection of online applicat
 
 I am driven by my goal of continuous learning, and am always open to new ideas, advice, or internship/co-op opportunities (for Summer 2025) where I can grow and contribute to an innovative organization or company! 💡
 
-Please feel free to reach out and connect, here is my LinkedIn: https://www.linkedin.com/in/marcusng01/ 👍🏼
+Please feel free to reach out and connect! 👍🏼
 
