@@ -1,6 +1,6 @@
 ## Hey there, I'm Marcus 👋🏼
 
-Recently released analogous.app[https://analogous.app], check it out!
+Recently released [analogous.app](https://analogous.app), check it out!
 
 I'm currently a student at the University of Waterloo studying Computer Science 👨🏻‍💻
 
