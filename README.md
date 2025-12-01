@@ -10,8 +10,8 @@ Building [analogous.app](https://analogous.app), check it out!
 - Also exploring **iOS Mobile Development**!
 
 ### 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusng01/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcus7.ng@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/_marcus_ng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusng01/) `linkedin.com/in/marcusng01`  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcus7.ng@gmail.com) `marcus7.ng@gmail.com`  
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/_marcus_ng) `x.com/_marcus_ng`
 
 💼 Open to **Summer 2025 internships** and collaboration opportunities!
