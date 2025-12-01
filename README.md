@@ -1,14 +1,16 @@
-## Hey there, I'm Marcus 👋🏼
+## Hey, I'm Marcus
 
-Recently released [analogous.app](https://analogous.app), check it out!
+**CS Student @ University of Waterloo** 🎓  
+Building [analogous.app](https://analogous.app)
 
-I'm currently a student at the University of Waterloo studying Computer Science 👨🏻‍💻
+### 🚀 What I Do
+- **AI/ML Development** – Creating cool tools that use and implement AI
+- **Full-Stack Engineering** – Shipping products that matter
+- Also exploring **iOS Mobile Development**!
 
-I am passionate about using innovative software technologies, such as AI and machine learning, to create inclusive tools and applications that focuses on the empowerment and needs of users themselves 🧠
+### 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusng01/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcus7.ng@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/_marcus_ng)
 
-I am also extremely interested in the security and protection of online applications—especially with AI coming into the picture. The intersection between AI and cybersecurity is a major focus for me on my computer science learning journey here at the University of Waterloo 🧩
-
-I am driven by my goal of continuous learning, and am always open to new ideas, advice, or internship/co-op opportunities (for Summer 2025) where I can grow and contribute to an innovative organization or company! 💡
-
-Please feel free to reach out and connect! 👍🏼
-
+💼 Open to **Summer 2025 internships** and collaboration opportunities!
