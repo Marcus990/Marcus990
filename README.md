@@ -1,7 +1,8 @@
 ## Hey, I'm Marcus
 
 **CS Student @ University of Waterloo** 🎓  
-Building [analogous.app](https://analogous.app)
+
+Building [analogous.app](https://analogous.app), check it out!
 
 ### 🚀 What I Do
 - **AI/ML Development** – Creating cool tools that use and implement AI
