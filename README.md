@@ -10,8 +10,17 @@ Building [analogous.app](https://analogous.app), check it out!
 - Also exploring **iOS Mobile Development**!
 
 ### 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusng01/) [linkedin.com/in/marcusng01](https://www.linkedin.com/in/marcusng01/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcus7.ng@gmail.com) [marcus7.ng@gmail.com](mailto:marcus7.ng@gmail.com)   
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/_marcus_ng) [x.com/_marcus_ng](https://x.com/_marcus_ng) 
+<p>
+  <a href="https://www.linkedin.com/in/marcusng01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;"></a>
+  <span style="vertical-align: middle;"> <a href="https://www.linkedin.com/in/marcusng01/">linkedin.com/in/marcusng01</a></span>
+</p>
+<p>
+  <a href="mailto:marcus7.ng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle;"></a>
+  <span style="vertical-align: middle;"> <a href="mailto:marcus7.ng@gmail.com">marcus7.ng@gmail.com</a></span>
+</p>
+<p>
+  <a href="https://x.com/_marcus_ng"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" style="vertical-align: middle;"></a>
+  <span style="vertical-align: middle;"> <a href="https://x.com/_marcus_ng">x.com/_marcus_ng</a></span>
+</p> 
 
 💼 Open to **Summer 2025 internships** and collaboration opportunities!
