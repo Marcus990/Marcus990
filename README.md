@@ -3,9 +3,9 @@
 # Hey, I'm Marcus 👋
 
 **CS Student @ University of Waterloo** 🎓  
-Building [analogous.app](https://analogous.app)
+Building [analogous.app](https://analogous.app) 📖
 
-![Profile Views](https://komarev.com/ghpvc/?username=Marcus990&color=blueviolet&style=flat)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Marcus990&color=blueviolet&style=flat) -->
 
 </div>
 
@@ -25,16 +25,6 @@ Building [analogous.app](https://analogous.app)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcus990&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus990&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 🔗 Connect With Me
 
