@@ -15,13 +15,15 @@ Building [analogous.app](https://analogous.app) 📖
 
 - **AI/ML Development** – Creating cool tools that use and implement AI
 - **Full-Stack Engineering** – Shipping products that matter
-- **iOS Mobile Development** – Exploring mobile app development
+- **iOS Mobile Development** – Currently exploring mobile app development
 
 ## 🎥 Featured
 
 <div align="center">
 
-[![Google Cloud AI Agent Bake-Off](https://img.youtube.com/vi/0CQxF56MKWo/maxresdefault.jpg)](https://youtu.be/0CQxF56MKWo?si=tePVNHQAXcv9RAvZ)
+<a href="https://youtu.be/0CQxF56MKWo?si=tePVNHQAXcv9RAvZ">
+  <img src="https://img.youtube.com/vi/0CQxF56MKWo/maxresdefault.jpg" alt="Google Cloud AI Agent Bake-Off" width="600">
+</a>
 
 *Built a multi-agent banking system using Google ADK, A2A Protocol, and Gemini models. Check out the [repository here](https://github.com/Marcus990/Cymbal-Bank-Orchestra)*
 
