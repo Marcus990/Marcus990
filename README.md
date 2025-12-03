@@ -44,7 +44,10 @@ Building [analogous.app](https://analogous.app) 📖
   <a href="https://www.linkedin.com/in/marcusng01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;"></a>
   <a href="mailto:marcus7.ng@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle;"></a>
   <a href="https://x.com/_marcus_ng"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="vertical-align: middle;"></a>
+  <a href="https://devpost.com/marcus7-ng"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" style="vertical-align: middle;"></a>
 </p>
+
+📧 **Email me at:** `marcus7.ng@gmail.com`
 
 ---
 
