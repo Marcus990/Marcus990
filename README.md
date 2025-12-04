@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Marcus 👋
+# Hey, I'm Marcus 🎲
 
 **CS Student @ University of Waterloo** 🎓  
 Building [analogous.app](https://analogous.app) 📖
@@ -15,7 +15,7 @@ Building [analogous.app](https://analogous.app) 📖
 <tr>
 <td width="50%" valign="top">
 
-## 🚀 What I Do
+## What I Do
 
 - **AI/ML Development** – Creating cool tools that use and implement AI
 - **Full-Stack Engineering** – Shipping products that matter
@@ -24,7 +24,7 @@ Building [analogous.app](https://analogous.app) 📖
 </td>
 <td width="50%" valign="top">
 
-## 🎥 Featured
+## Featured
 
 <a href="https://youtu.be/0CQxF56MKWo?si=tePVNHQAXcv9RAvZ">
   <img src="https://img.youtube.com/vi/0CQxF56MKWo/maxresdefault.jpg" alt="Google Cloud AI Agent Bake-Off" width="100%">
@@ -37,7 +37,7 @@ Building [analogous.app](https://analogous.app) 📖
 <tr>
 <td width="50%" valign="top">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -49,7 +49,7 @@ Building [analogous.app](https://analogous.app) 📖
 </td>
 <td width="50%" valign="top">
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/marcusng01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align: middle;"></a>
