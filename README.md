@@ -11,23 +11,31 @@ Building [analogous.app](https://analogous.app) 📖
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## 🚀 What I Do
 
 - **AI/ML Development** – Creating cool tools that use and implement AI
 - **Full-Stack Engineering** – Shipping products that matter
 - **iOS Mobile Development** – Currently exploring mobile app development
 
+</td>
+<td width="50%" valign="top">
+
 ## 🎥 Featured
 
-<div align="center">
-
 <a href="https://youtu.be/0CQxF56MKWo?si=tePVNHQAXcv9RAvZ">
-  <img src="https://img.youtube.com/vi/0CQxF56MKWo/maxresdefault.jpg" alt="Google Cloud AI Agent Bake-Off" width="600">
+  <img src="https://img.youtube.com/vi/0CQxF56MKWo/maxresdefault.jpg" alt="Google Cloud AI Agent Bake-Off" width="100%">
 </a>
 
 *Built a multi-agent banking system using Google ADK, A2A Protocol, and Gemini models. Check out the [repository here](https://github.com/Marcus990/Cymbal-Bank-Orchestra)*
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ## 🛠️ Tech Stack
 
@@ -37,6 +45,9 @@ Building [analogous.app](https://analogous.app) 📖
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
 
 ## 🔗 Connect With Me
 
@@ -48,6 +59,10 @@ Building [analogous.app](https://analogous.app) 📖
 </p>
 
 📧 **Email me at:** `marcus7.ng@gmail.com`
+
+</td>
+</tr>
+</table>
 
 ---
 
