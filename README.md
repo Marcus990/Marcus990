@@ -68,6 +68,6 @@ Building [analogous.app](https://analogous.app) 📖
 
 <div align="center">
 
-💼 **Open to Summer 2025 internships and collaboration opportunities!**
+💼 **Open to Summer 2026 internships and collaboration opportunities!**
 
 </div>
